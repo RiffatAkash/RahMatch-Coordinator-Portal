@@ -1,0 +1,6 @@
+{
+  "name": "RahMatch Coordinator Portal",
+  "description": "Muslim Matrimonial Service Coordinator Portal. Human-curated matchmaking built on privacy, mutual consent, and Islamic values.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
